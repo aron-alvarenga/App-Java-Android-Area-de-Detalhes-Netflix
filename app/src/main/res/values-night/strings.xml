@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="serie_nome">House of Cards</string>
+    <string name="serie_episodio">S1:E2</string>
+    <string name="menu_mensagem">Mensagem</string>
+    <string name="menu_volume">Volume</string>
+    <string name="menu_avaliacoes">Avaliações</string>
+    <string name="menu_episodios">Episódios</string>
+    <string name="tempo_atual">01:30</string>
+    <string name="tempo_total">42:20</string>
+</resources>
